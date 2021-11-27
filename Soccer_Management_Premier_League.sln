@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer_Management_Premier_League", "Soccer_Management_Premier_League\Soccer_Management_Premier_League.csproj", "{CEB7E66C-053F-48A0-8436-D46991105EBA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SoccerManagement", "SoccerManagement\SoccerManagement.vdproj", "{70FC927E-2B32-4C7A-B248-8F48D3AC0CFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB7E66C-053F-48A0-8436-D46991105EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB7E66C-053F-48A0-8436-D46991105EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB7E66C-053F-48A0-8436-D46991105EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB7E66C-053F-48A0-8436-D46991105EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70FC927E-2B32-4C7A-B248-8F48D3AC0CFD}.Debug|Any CPU.ActiveCfg = Debug
+		{70FC927E-2B32-4C7A-B248-8F48D3AC0CFD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D58A381-B88D-45A1-ACF6-1A062A7CE372}
+	EndGlobalSection
+EndGlobal
